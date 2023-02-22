@@ -9,8 +9,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 The resources included in this repository are organized into different categories based on their purpose and functionality.
 
 * [Awesome Software Mind dotnet](#awesome-softwaremind-dotnet)
+  * [Architecture](#architecture)
   * [Patterns](#patterns)
 
+## Architecture
+* [Clean Architecture](https://github.com/KmlPro/ToDoAsLessCodeAsPossible) - "To Do" domain implemented using clean architecture.
 
 ## Patterns
 * [SAGA shop checkout flow](https://github.com/Karasini/saga-shop-checkout-example) - Demo of SAGA pattern using shop checkout flow.
+* [Use Case Pattern](https://github.com/KmlPro/UseCasePatternWithRichDomain) - Use Case Pattern (Described in Uncle Bob Clean Architecture) using .NET 6.
