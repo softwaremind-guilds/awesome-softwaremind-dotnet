@@ -1,4 +1,4 @@
-# Awesome Software Mind Dotnet
+# Awesome Software Mind .NET!
 A collection of awesome .NET repositories created and maintained by a community of .NET developers at Software Mind company. Our goal is promotion of best practises and innovative tools, especially crafted by Software Mind developers. 
 
 The repository contains various resources, including libraries, frameworks, tools, and applications built using .NET technologies. Each resource is accompanied by a brief description that highlights its key features and benefits, along with links to its source code, documentation, and other relevant information.
@@ -8,7 +8,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 # Table of Contents
 The resources included in this repository are organized into different categories based on their purpose and functionality.
 
-* [Awesome Software Mind dotnet](#awesome-softwaremind-dotnet)
+* Awesome Software Mind .NET
   * [Architecture](#architecture)
   * [Patterns](#patterns)
 
