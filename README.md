@@ -10,10 +10,14 @@ The resources included in this repository are organized into different categorie
 
 * Awesome Software Mind .NET
   * [Architecture](#architecture)
+  * [Benchmarks](#benchmarks)
   * [Patterns](#patterns)
 
 ## Architecture
 * [Clean Architecture](https://github.com/KmlPro/ToDoAsLessCodeAsPossible) - "To Do" domain implemented using clean architecture.
+
+## Benchmarks
+* [Dotnet in docker benchmarks](https://github.com/sikora507/dotnet-docker-benchmarks) - Dotnet benchmarks comparing to golang in docker container.
 
 ## Patterns
 * [SAGA shop checkout flow](https://github.com/Karasini/saga-shop-checkout-example) - Demo of SAGA pattern using shop checkout flow.
