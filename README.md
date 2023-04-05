@@ -12,9 +12,11 @@ The resources included in this repository are organized into different categorie
   * [Architecture](#architecture)
   * [Benchmarks](#benchmarks)
   * [Patterns](#patterns)
+  * [Tests](#tests)
 
 ## Architecture
 * [Clean Architecture](https://github.com/KmlPro/ToDoAsLessCodeAsPossible) - "To Do" domain implemented using clean architecture.
+* [DDD Prime Drive](https://github.com/kamilbaczek/Prime-Drive-Domain-Driven-Design-Example) - example of DDD system in .NET. Domain of this system is taxi process similiar to "Uber" or "Bolt".
 
 ## Benchmarks
 * [Dotnet in docker benchmarks](https://github.com/sikora507/dotnet-docker-benchmarks) - Dotnet benchmarks comparing to golang in docker container.
@@ -22,3 +24,6 @@ The resources included in this repository are organized into different categorie
 ## Patterns
 * [SAGA shop checkout flow](https://github.com/Karasini/saga-shop-checkout-example) - Demo of SAGA pattern using shop checkout flow.
 * [Use Case Pattern](https://github.com/KmlPro/UseCasePatternWithRichDomain) - Use Case Pattern (Described in Uncle Bob Clean Architecture) using .NET 6.
+
+## Tests
+* [Integration tests](https://github.com/kamilbaczek/Product.Inventory) - Integration tests example.
