@@ -24,6 +24,7 @@ The resources included in this repository are organized into different categorie
 ## Patterns
 * [SAGA shop checkout flow](https://github.com/Karasini/saga-shop-checkout-example) - Demo of SAGA pattern using shop checkout flow.
 * [Use Case Pattern](https://github.com/KmlPro/UseCasePatternWithRichDomain) - Use Case Pattern (Described in Uncle Bob Clean Architecture) using .NET 6.
+* [Resiliency patterns](https://github.com/MelomanG/SM-DotNetGuild) - Resiliency patterns with Polly library.
 
 ## Tests
 * [Integration tests](https://github.com/kamilbaczek/Product.Inventory) - Integration tests example.
