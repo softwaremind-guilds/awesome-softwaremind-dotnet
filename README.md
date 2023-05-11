@@ -9,10 +9,14 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 The resources included in this repository are organized into different categories based on their purpose and functionality.
 
 * Awesome Software Mind .NET
+  * [Auth](#auth)
   * [Architecture](#architecture)
   * [Benchmarks](#benchmarks)
   * [Patterns](#patterns)
   * [Tests](#tests)
+
+## Auth
+* [ASP net auth](https://github.com/sikora507/asp-net-auth) - Example web api using google authentication. Repository contains branches with checkpoints from every configuration step.
 
 ## Architecture
 * [Clean Architecture](https://github.com/KmlPro/ToDoAsLessCodeAsPossible) - "To Do" domain implemented using clean architecture.
