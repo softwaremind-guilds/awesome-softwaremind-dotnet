@@ -12,6 +12,7 @@ The resources included in this repository are organized into different categorie
   * [Auth](#auth)
   * [Architecture](#architecture)
   * [Benchmarks](#benchmarks)
+  * [C# Guides](#c-guides)
   * [Patterns](#patterns)
   * [Tests](#tests)
 
@@ -24,6 +25,9 @@ The resources included in this repository are organized into different categorie
 
 ## Benchmarks
 * [Dotnet in docker benchmarks](https://github.com/sikora507/dotnet-docker-benchmarks) - Dotnet benchmarks comparing to golang in docker container.
+
+## C# Guides
+* [Fluent builder source generator](https://github.com/Karasini/Fluent-Builder-Source-Generator) - example of source generator that prepares fluent builder for any class marked with specific attribute.
 
 ## Patterns
 * [SAGA shop checkout flow](https://github.com/Karasini/saga-shop-checkout-example) - Demo of SAGA pattern using shop checkout flow.
